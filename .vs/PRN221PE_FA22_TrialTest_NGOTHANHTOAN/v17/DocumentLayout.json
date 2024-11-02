@@ -1,0 +1,1172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\pages\\candidateprofilepage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\pages\\candidateprofilepage\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\pages\\candidateprofilepage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\candidatemanagementwebsite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\candidatemanagementwebsite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4CDD30-FB06-4937-ABC5-E2ADC89661FF}|CandidateManagment_WPF_TUE_Slot1\\CandidateManagment_WPF_TUE_Slot1.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagment_wpf_tue_slot1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4CDD30-FB06-4937-ABC5-E2ADC89661FF}|CandidateManagment_WPF_TUE_Slot1\\CandidateManagment_WPF_TUE_Slot1.csproj|solutionrelative:candidatemanagment_wpf_tue_slot1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4CDD30-FB06-4937-ABC5-E2ADC89661FF}|CandidateManagment_WPF_TUE_Slot1\\CandidateManagment_WPF_TUE_Slot1.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagment_wpf_tue_slot1\\candidateprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4CDD30-FB06-4937-ABC5-E2ADC89661FF}|CandidateManagment_WPF_TUE_Slot1\\CandidateManagment_WPF_TUE_Slot1.csproj|solutionrelative:candidatemanagment_wpf_tue_slot1\\candidateprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4CDD30-FB06-4937-ABC5-E2ADC89661FF}|CandidateManagment_WPF_TUE_Slot1\\CandidateManagment_WPF_TUE_Slot1.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagment_wpf_tue_slot1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4CDD30-FB06-4937-ABC5-E2ADC89661FF}|CandidateManagment_WPF_TUE_Slot1\\CandidateManagment_WPF_TUE_Slot1.csproj|solutionrelative:candidatemanagment_wpf_tue_slot1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4CDD30-FB06-4937-ABC5-E2ADC89661FF}|CandidateManagment_WPF_TUE_Slot1\\CandidateManagment_WPF_TUE_Slot1.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagment_wpf_tue_slot1\\candidatemanagment_wpf_tue_slot1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C4CDD30-FB06-4937-ABC5-E2ADC89661FF}|CandidateManagment_WPF_TUE_Slot1\\CandidateManagment_WPF_TUE_Slot1.csproj|solutionrelative:candidatemanagment_wpf_tue_slot1\\candidatemanagment_wpf_tue_slot1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\pages\\candidateprofilepage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C677D771-52B8-4B0A-B45D-514535D6C033}|Candidate_Service\\Candidate_Service.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidate_service\\candidate_service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C677D771-52B8-4B0A-B45D-514535D6C033}|Candidate_Service\\Candidate_Service.csproj|solutionrelative:candidate_service\\candidate_service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C5B80-91B4-450D-8A19-5D7508C81DB6}|Candidate_Repository\\Candidate_Repository.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidate_repository\\candidate_repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{387C5B80-91B4-450D-8A19-5D7508C81DB6}|Candidate_Repository\\Candidate_Repository.csproj|solutionrelative:candidate_repository\\candidate_repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ACEB94-C7D0-40B1-BC39-331F56601278}|Candidate_DAO\\Candidate_DAO.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidate_dao\\candidate_dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F2ACEB94-C7D0-40B1-BC39-331F56601278}|Candidate_DAO\\Candidate_DAO.csproj|solutionrelative:candidate_dao\\candidate_dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD285FF-9191-4F6C-AC93-7F384042AD47}|ClassLibrary1_BussinessObjects\\Candidate_BussinessObjects.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\classlibrary1_bussinessobjects\\candidate_bussinessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2BD285FF-9191-4F6C-AC93-7F384042AD47}|ClassLibrary1_BussinessObjects\\Candidate_BussinessObjects.csproj|solutionrelative:classlibrary1_bussinessobjects\\candidate_bussinessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\data\\candidatemanagementwebsitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\data\\candidatemanagementwebsitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\candidatemanagementwebsite.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\candidatemanagementwebsite.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C677D771-52B8-4B0A-B45D-514535D6C033}|Candidate_Service\\Candidate_Service.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidate_service\\hraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C677D771-52B8-4B0A-B45D-514535D6C033}|Candidate_Service\\Candidate_Service.csproj|solutionrelative:candidate_service\\hraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C677D771-52B8-4B0A-B45D-514535D6C033}|Candidate_Service\\Candidate_Service.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidate_service\\ihraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C677D771-52B8-4B0A-B45D-514535D6C033}|Candidate_Service\\Candidate_Service.csproj|solutionrelative:candidate_service\\ihraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C5B80-91B4-450D-8A19-5D7508C81DB6}|Candidate_Repository\\Candidate_Repository.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidate_repository\\hracccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C5B80-91B4-450D-8A19-5D7508C81DB6}|Candidate_Repository\\Candidate_Repository.csproj|solutionrelative:candidate_repository\\hracccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C5B80-91B4-450D-8A19-5D7508C81DB6}|Candidate_Repository\\Candidate_Repository.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidate_repository\\ihraccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C5B80-91B4-450D-8A19-5D7508C81DB6}|Candidate_Repository\\Candidate_Repository.csproj|solutionrelative:candidate_repository\\ihraccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C5B80-91B4-450D-8A19-5D7508C81DB6}|Candidate_Repository\\Candidate_Repository.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidate_repository\\candidateprofilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C5B80-91B4-450D-8A19-5D7508C81DB6}|Candidate_Repository\\Candidate_Repository.csproj|solutionrelative:candidate_repository\\candidateprofilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C5B80-91B4-450D-8A19-5D7508C81DB6}|Candidate_Repository\\Candidate_Repository.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidate_repository\\ijobpostingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C5B80-91B4-450D-8A19-5D7508C81DB6}|Candidate_Repository\\Candidate_Repository.csproj|solutionrelative:candidate_repository\\ijobpostingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C677D771-52B8-4B0A-B45D-514535D6C033}|Candidate_Service\\Candidate_Service.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidate_service\\icandidateprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C677D771-52B8-4B0A-B45D-514535D6C033}|Candidate_Service\\Candidate_Service.csproj|solutionrelative:candidate_service\\icandidateprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C5B80-91B4-450D-8A19-5D7508C81DB6}|Candidate_Repository\\Candidate_Repository.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidate_repository\\icandidateprofilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C5B80-91B4-450D-8A19-5D7508C81DB6}|Candidate_Repository\\Candidate_Repository.csproj|solutionrelative:candidate_repository\\icandidateprofilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\pages\\candidateprofilepage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\pages\\candidateprofilepage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\pages\\candidateprofilepage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4CDD30-FB06-4937-ABC5-E2ADC89661FF}|CandidateManagment_WPF_TUE_Slot1\\CandidateManagment_WPF_TUE_Slot1.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagment_wpf_tue_slot1\\candidateprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2C4CDD30-FB06-4937-ABC5-E2ADC89661FF}|CandidateManagment_WPF_TUE_Slot1\\CandidateManagment_WPF_TUE_Slot1.csproj|solutionrelative:candidatemanagment_wpf_tue_slot1\\candidateprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4CDD30-FB06-4937-ABC5-E2ADC89661FF}|CandidateManagment_WPF_TUE_Slot1\\CandidateManagment_WPF_TUE_Slot1.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagment_wpf_tue_slot1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2C4CDD30-FB06-4937-ABC5-E2ADC89661FF}|CandidateManagment_WPF_TUE_Slot1\\CandidateManagment_WPF_TUE_Slot1.csproj|solutionrelative:candidatemanagment_wpf_tue_slot1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD285FF-9191-4F6C-AC93-7F384042AD47}|ClassLibrary1_BussinessObjects\\Candidate_BussinessObjects.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\classlibrary1_bussinessobjects\\candidateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD285FF-9191-4F6C-AC93-7F384042AD47}|ClassLibrary1_BussinessObjects\\Candidate_BussinessObjects.csproj|solutionrelative:classlibrary1_bussinessobjects\\candidateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD285FF-9191-4F6C-AC93-7F384042AD47}|ClassLibrary1_BussinessObjects\\Candidate_BussinessObjects.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\classlibrary1_bussinessobjects\\hraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD285FF-9191-4F6C-AC93-7F384042AD47}|ClassLibrary1_BussinessObjects\\Candidate_BussinessObjects.csproj|solutionrelative:classlibrary1_bussinessobjects\\hraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\pages\\candidateprofilepage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C677D771-52B8-4B0A-B45D-514535D6C033}|Candidate_Service\\Candidate_Service.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidate_service\\candidateprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C677D771-52B8-4B0A-B45D-514535D6C033}|Candidate_Service\\Candidate_Service.csproj|solutionrelative:candidate_service\\candidateprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ACEB94-C7D0-40B1-BC39-331F56601278}|Candidate_DAO\\Candidate_DAO.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidate_dao\\candidatemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2ACEB94-C7D0-40B1-BC39-331F56601278}|Candidate_DAO\\Candidate_DAO.csproj|solutionrelative:candidate_dao\\candidatemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD285FF-9191-4F6C-AC93-7F384042AD47}|ClassLibrary1_BussinessObjects\\Candidate_BussinessObjects.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\classlibrary1_bussinessobjects\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD285FF-9191-4F6C-AC93-7F384042AD47}|ClassLibrary1_BussinessObjects\\Candidate_BussinessObjects.csproj|solutionrelative:classlibrary1_bussinessobjects\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ACEB94-C7D0-40B1-BC39-331F56601278}|Candidate_DAO\\Candidate_DAO.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidate_dao\\cadidateprofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2ACEB94-C7D0-40B1-BC39-331F56601278}|Candidate_DAO\\Candidate_DAO.csproj|solutionrelative:candidate_dao\\cadidateprofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4CDD30-FB06-4937-ABC5-E2ADC89661FF}|CandidateManagment_WPF_TUE_Slot1\\CandidateManagment_WPF_TUE_Slot1.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagment_wpf_tue_slot1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4CDD30-FB06-4937-ABC5-E2ADC89661FF}|CandidateManagment_WPF_TUE_Slot1\\CandidateManagment_WPF_TUE_Slot1.csproj|solutionrelative:candidatemanagment_wpf_tue_slot1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Properties\\serviceDependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C5B80-91B4-450D-8A19-5D7508C81DB6}|Candidate_Repository\\Candidate_Repository.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidate_repository\\jobpostingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C5B80-91B4-450D-8A19-5D7508C81DB6}|Candidate_Repository\\Candidate_Repository.csproj|solutionrelative:candidate_repository\\jobpostingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ACEB94-C7D0-40B1-BC39-331F56601278}|Candidate_DAO\\Candidate_DAO.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidate_dao\\hraccountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2ACEB94-C7D0-40B1-BC39-331F56601278}|Candidate_DAO\\Candidate_DAO.csproj|solutionrelative:candidate_dao\\hraccountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ACEB94-C7D0-40B1-BC39-331F56601278}|Candidate_DAO\\Candidate_DAO.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidate_dao\\jobpostingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2ACEB94-C7D0-40B1-BC39-331F56601278}|Candidate_DAO\\Candidate_DAO.csproj|solutionrelative:candidate_dao\\jobpostingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C677D771-52B8-4B0A-B45D-514535D6C033}|Candidate_Service\\Candidate_Service.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidate_service\\ijobpostingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C677D771-52B8-4B0A-B45D-514535D6C033}|Candidate_Service\\Candidate_Service.csproj|solutionrelative:candidate_service\\ijobpostingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C677D771-52B8-4B0A-B45D-514535D6C033}|Candidate_Service\\Candidate_Service.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidate_service\\jobpostingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C677D771-52B8-4B0A-B45D-514535D6C033}|Candidate_Service\\Candidate_Service.csproj|solutionrelative:candidate_service\\jobpostingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Data\\CandidateManagementWebsiteContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\pages\\candidateprofilepage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\prn221pe_fa22_trialtest_ngothanhtoan\\candidatemanagementwebsite\\pages\\candidateprofilepage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFBD306-4036-45D6-8ED6-A64F82EF7B52}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CandidateManagementWebsite",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\CandidateManagementWebsite.csproj",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\CandidateManagementWebsite.csproj",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\CandidateManagementWebsite.csproj",
+              "RelativeToolTip": "CandidateManagementWebsite\\CandidateManagementWebsite.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-02T12:03:06.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:41:06.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Details.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Details.cshtml",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:39:23.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Delete.cshtml",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Delete.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:37:44.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Edit.cshtml",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:36:56.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:29:16.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:15:06.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\Error.cshtml",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:19:07.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:15:13.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:12:44.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\Login.cshtml",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:10:03.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAApwB0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:10:06.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T08:50:07.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:48:17.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\Index.cshtml",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T08:48:10.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Create.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Create.cshtml",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Create.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T08:46:59.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Index.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Index.cshtml",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T08:46:54.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "CandidateManagementWebsite\\Properties\\serviceDependencies.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T08:24:28.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CandidateManagementWebsite.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\CandidateManagementWebsite.csproj",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\CandidateManagementWebsite.csproj",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\CandidateManagementWebsite.csproj",
+              "RelativeToolTip": "CandidateManagementWebsite\\CandidateManagementWebsite.csproj",
+              "ViewState": "AgIAACMAAADAfqgO3WswwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T05:39:22.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagment_WPF_TUE_Slot1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CandidateManagment_WPF_TUE_Slot1\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagment_WPF_TUE_Slot1\\App.xaml.cs",
+              "RelativeToolTip": "CandidateManagment_WPF_TUE_Slot1\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:37:23.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\appsettings.Development.json",
+              "RelativeToolTip": "CandidateManagementWebsite\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T05:36:33.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Program.cs",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Program.cs",
+              "RelativeToolTip": "CandidateManagementWebsite\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAACxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:35:28.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Index.cshtml.cs",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:35:10.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Edit.cshtml.cs",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Edit.cshtml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA3wEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:34:52.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Details.cshtml.cs",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Details.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:34:43.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Delete.cshtml.cs",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Delete.cshtml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:34:29.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Create.cshtml.cs",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Create.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:34:17.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\appsettings.json",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\appsettings.json",
+              "RelativeToolTip": "CandidateManagementWebsite\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T05:33:55.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CandidateManagementWebsiteContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Data\\CandidateManagementWebsiteContext.cs",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Data\\CandidateManagementWebsiteContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Data\\CandidateManagementWebsiteContext.cs",
+              "RelativeToolTip": "CandidateManagementWebsite\\Data\\CandidateManagementWebsiteContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:33:26.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagementWebsite\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CandidateManagementWebsite\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T05:32:55.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Properties\\serviceDependencies.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T05:24:02.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Properties\\launchSettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T05:23:26.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Edit.cshtml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Edit.cshtml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:11:44.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Index.cshtml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Index.cshtml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:11:28.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Details.cshtml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Details.cshtml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:10:26.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Delete.cshtml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Delete.cshtml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:08:58.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Create.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Create.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T05:08:37.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Create.cshtml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\CandidateProfilePage\\Create.cshtml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:08:13.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "CandidateManagementWebsiteContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Data\\CandidateManagementWebsiteContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Data\\CandidateManagementWebsiteContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Data\\CandidateManagementWebsiteContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Data\\CandidateManagementWebsiteContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:52:57.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CandidatePRofileService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Service\\CandidatePRofileService.cs",
+              "RelativeDocumentMoniker": "Candidate_Service\\CandidatePRofileService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Service\\CandidatePRofileService.cs",
+              "RelativeToolTip": "Candidate_Service\\CandidatePRofileService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:44:09.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICandidateProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Service\\ICandidateProfileService.cs",
+              "RelativeDocumentMoniker": "Candidate_Service\\ICandidateProfileService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Service\\ICandidateProfileService.cs",
+              "RelativeToolTip": "Candidate_Service\\ICandidateProfileService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:43:51.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CandidateProfileRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Repository\\CandidateProfileRepo.cs",
+              "RelativeDocumentMoniker": "Candidate_Repository\\CandidateProfileRepo.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Repository\\CandidateProfileRepo.cs",
+              "RelativeToolTip": "Candidate_Repository\\CandidateProfileRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:36:05.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ICandidateProfileRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Repository\\ICandidateProfileRepo.cs",
+              "RelativeDocumentMoniker": "Candidate_Repository\\ICandidateProfileRepo.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Repository\\ICandidateProfileRepo.cs",
+              "RelativeToolTip": "Candidate_Repository\\ICandidateProfileRepo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:34:34.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CadidateProfileDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_DAO\\CadidateProfileDAO.cs",
+              "RelativeDocumentMoniker": "Candidate_DAO\\CadidateProfileDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_DAO\\CadidateProfileDAO.cs",
+              "RelativeToolTip": "Candidate_DAO\\CadidateProfileDAO.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAswJAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:06:18.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CandidateProfileWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagment_WPF_TUE_Slot1\\CandidateProfileWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CandidateManagment_WPF_TUE_Slot1\\CandidateProfileWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagment_WPF_TUE_Slot1\\CandidateProfileWindow.xaml.cs",
+              "RelativeToolTip": "CandidateManagment_WPF_TUE_Slot1\\CandidateProfileWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwIEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T09:29:11.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CandidateProfileWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagment_WPF_TUE_Slot1\\CandidateProfileWindow.xaml",
+              "RelativeDocumentMoniker": "CandidateManagment_WPF_TUE_Slot1\\CandidateProfileWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagment_WPF_TUE_Slot1\\CandidateProfileWindow.xaml",
+              "RelativeToolTip": "CandidateManagment_WPF_TUE_Slot1\\CandidateProfileWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-29T09:27:02.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CandidateManagment_WPF_TUE_Slot1.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagment_WPF_TUE_Slot1\\CandidateManagment_WPF_TUE_Slot1.csproj",
+              "RelativeDocumentMoniker": "CandidateManagment_WPF_TUE_Slot1\\CandidateManagment_WPF_TUE_Slot1.csproj",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagment_WPF_TUE_Slot1\\CandidateManagment_WPF_TUE_Slot1.csproj",
+              "RelativeToolTip": "CandidateManagment_WPF_TUE_Slot1\\CandidateManagment_WPF_TUE_Slot1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-28T06:52:42.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "JobPosTingService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Service\\JobPosTingService.cs",
+              "RelativeDocumentMoniker": "Candidate_Service\\JobPosTingService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Service\\JobPosTingService.cs",
+              "RelativeToolTip": "Candidate_Service\\JobPosTingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:22:18.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IJobPosTingService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Service\\IJobPosTingService.cs",
+              "RelativeDocumentMoniker": "Candidate_Service\\IJobPosTingService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Service\\IJobPosTingService.cs",
+              "RelativeToolTip": "Candidate_Service\\IJobPosTingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:21:15.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "JobPostingDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_DAO\\JobPostingDAO.cs",
+              "RelativeDocumentMoniker": "Candidate_DAO\\JobPostingDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_DAO\\JobPostingDAO.cs",
+              "RelativeToolTip": "Candidate_DAO\\JobPostingDAO.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:12:41.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "JobPosTingRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Repository\\JobPosTingRepo.cs",
+              "RelativeDocumentMoniker": "Candidate_Repository\\JobPosTingRepo.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Repository\\JobPosTingRepo.cs",
+              "RelativeToolTip": "Candidate_Repository\\JobPosTingRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:08:15.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IJobPosTingRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Repository\\IJobPosTingRepo.cs",
+              "RelativeDocumentMoniker": "Candidate_Repository\\IJobPosTingRepo.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Repository\\IJobPosTingRepo.cs",
+              "RelativeToolTip": "Candidate_Repository\\IJobPosTingRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:03:30.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagment_WPF_TUE_Slot1\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CandidateManagment_WPF_TUE_Slot1\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagment_WPF_TUE_Slot1\\AssemblyInfo.cs",
+              "RelativeToolTip": "CandidateManagment_WPF_TUE_Slot1\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T03:23:42.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CandidateProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\ClassLibrary1_BussinessObjects\\CandidateProfile.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1_BussinessObjects\\CandidateProfile.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\ClassLibrary1_BussinessObjects\\CandidateProfile.cs",
+              "RelativeToolTip": "ClassLibrary1_BussinessObjects\\CandidateProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:36:04.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagment_WPF_TUE_Slot1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CandidateManagment_WPF_TUE_Slot1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagment_WPF_TUE_Slot1\\MainWindow.xaml",
+              "RelativeToolTip": "CandidateManagment_WPF_TUE_Slot1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-16T14:15:08.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagment_WPF_TUE_Slot1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CandidateManagment_WPF_TUE_Slot1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagment_WPF_TUE_Slot1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CandidateManagment_WPF_TUE_Slot1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAIA5wB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:15:08.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Candidate_Service.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Service\\Candidate_Service.csproj",
+              "RelativeDocumentMoniker": "Candidate_Service\\Candidate_Service.csproj",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Service\\Candidate_Service.csproj",
+              "RelativeToolTip": "Candidate_Service\\Candidate_Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T14:05:07.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HRAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Service\\HRAccountService.cs",
+              "RelativeDocumentMoniker": "Candidate_Service\\HRAccountService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Service\\HRAccountService.cs",
+              "RelativeToolTip": "Candidate_Service\\HRAccountService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:05:58.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IHRAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Service\\IHRAccountService.cs",
+              "RelativeDocumentMoniker": "Candidate_Service\\IHRAccountService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Service\\IHRAccountService.cs",
+              "RelativeToolTip": "Candidate_Service\\IHRAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:05:35.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CandidateManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_DAO\\CandidateManagementContext.cs",
+              "RelativeDocumentMoniker": "Candidate_DAO\\CandidateManagementContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_DAO\\CandidateManagementContext.cs",
+              "RelativeToolTip": "Candidate_DAO\\CandidateManagementContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:35:07.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Candidate_DAO.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_DAO\\Candidate_DAO.csproj",
+              "RelativeDocumentMoniker": "Candidate_DAO\\Candidate_DAO.csproj",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_DAO\\Candidate_DAO.csproj",
+              "RelativeToolTip": "Candidate_DAO\\Candidate_DAO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-13T03:01:16.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HRAcccountRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Repository\\HRAcccountRepo.cs",
+              "RelativeDocumentMoniker": "Candidate_Repository\\HRAcccountRepo.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Repository\\HRAcccountRepo.cs",
+              "RelativeToolTip": "Candidate_Repository\\HRAcccountRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:18:10.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IHRAccountRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Repository\\IHRAccountRepo.cs",
+              "RelativeDocumentMoniker": "Candidate_Repository\\IHRAccountRepo.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Repository\\IHRAccountRepo.cs",
+              "RelativeToolTip": "Candidate_Repository\\IHRAccountRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:13:01.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Candidate_Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Repository\\Candidate_Repository.csproj",
+              "RelativeDocumentMoniker": "Candidate_Repository\\Candidate_Repository.csproj",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_Repository\\Candidate_Repository.csproj",
+              "RelativeToolTip": "Candidate_Repository\\Candidate_Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-13T03:12:23.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\appsettings.json",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T15:28:10.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "JobPosting.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\ClassLibrary1_BussinessObjects\\JobPosting.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1_BussinessObjects\\JobPosting.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\ClassLibrary1_BussinessObjects\\JobPosting.cs",
+              "RelativeToolTip": "ClassLibrary1_BussinessObjects\\JobPosting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:29:02.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Hraccount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\ClassLibrary1_BussinessObjects\\Hraccount.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1_BussinessObjects\\Hraccount.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\ClassLibrary1_BussinessObjects\\Hraccount.cs",
+              "RelativeToolTip": "ClassLibrary1_BussinessObjects\\Hraccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:59:10.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "HRAccountDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_DAO\\HRAccountDAO.cs",
+              "RelativeDocumentMoniker": "Candidate_DAO\\HRAccountDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\Candidate_DAO\\HRAccountDAO.cs",
+              "RelativeToolTip": "Candidate_DAO\\HRAccountDAO.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:28:38.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Candidate_BussinessObjects.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\ClassLibrary1_BussinessObjects\\Candidate_BussinessObjects.csproj",
+              "RelativeDocumentMoniker": "ClassLibrary1_BussinessObjects\\Candidate_BussinessObjects.csproj",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\ClassLibrary1_BussinessObjects\\Candidate_BussinessObjects.csproj",
+              "RelativeToolTip": "ClassLibrary1_BussinessObjects\\Candidate_BussinessObjects.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-10T03:43:27.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:20:32.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\\CandidateManagement_NGOTHANHTOAN\\Pages\\_ViewImports.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T03:20:26.862Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

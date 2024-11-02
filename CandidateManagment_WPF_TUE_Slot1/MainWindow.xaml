@@ -1,0 +1,21 @@
+﻿<Window x:Class="CandidateManagment_WPF_TUE_Slot1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CandidateManagment_WPF_TUE_Slot1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="#FFBBD956">
+        <Label HorizontalAlignment="Left" Margin="151,153,0,0" VerticalAlignment="Top" Height="34" Width="66">
+            <Label Content="Email :" Width="65" Height="36"/>
+        </Label>
+        <Label Content="Password"  HorizontalAlignment="Left" Margin="153,217,0,0" VerticalAlignment="Top" Height="40" Width="73"/>
+        <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Margin="261,165,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="267" Height="22"  Text="admin@hr.com.vn"/>
+        <TextBox x:Name="txtPassword" HorizontalAlignment="Left" Margin="261,217,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="267"  Height="22" Text="123@"/>
+        <Button Content="Login" Name="btnButton" HorizontalAlignment="Left" Margin="216,304,0,0" VerticalAlignment="Top" Click="btnButton_Click" Width="98" Height="35" Background="#FF3CE609"/>
+        <Button Content="Cancel" Name="btnCN" HorizontalAlignment="Left" Margin="465,304,0,0" VerticalAlignment="Top" Click="btnCN_Click" Height="35" Width="95" Background="#FFE53F1B"/>
+        <Label Content="Login Form" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" FontSize="32" Width="184" FontWeight="Bold" RenderTransformOrigin="0.94,0.537"/>
+
+    </Grid>
+</Window>

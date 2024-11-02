@@ -1,0 +1,29 @@
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\bin\Debug\net8.0\Candidate_BussinessObjects.deps.json
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\bin\Debug\net8.0\Candidate_BussinessObjects.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\bin\Debug\net8.0\Candidate_BussinessObjects.pdb
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\obj\Debug\net8.0\Candidate_BussinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\obj\Debug\net8.0\Candidate_BussinessObjects.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\obj\Debug\net8.0\Candidate_BussinessObjects.AssemblyInfo.cs
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\obj\Debug\net8.0\Candidate_BussinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\obj\Debug\net8.0\Candidate_BussinessObjects.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\obj\Debug\net8.0\refint\Candidate_BussinessObjects.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\obj\Debug\net8.0\Candidate_BussinessObjects.pdb
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\obj\Debug\net8.0\ref\Candidate_BussinessObjects.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\bin\Debug\net8.0\Candidate_BussinessObjects.runtimeconfig.json
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\obj\Debug\net8.0\Candidate_BussinessObjects.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\obj\Debug\net8.0\Candidate_BussinessObjects.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\bin\Debug\net8.0\Candidate_BussinessObjects.deps.json
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\bin\Debug\net8.0\Candidate_BussinessObjects.runtimeconfig.json
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\bin\Debug\net8.0\Candidate_BussinessObjects.dll
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\bin\Debug\net8.0\Candidate_BussinessObjects.pdb
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\obj\Debug\net8.0\Candidate_BussinessObjects.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\obj\Debug\net8.0\Candidate_BussinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\obj\Debug\net8.0\Candidate_BussinessObjects.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\obj\Debug\net8.0\Candidate_BussinessObjects.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\obj\Debug\net8.0\Candidate_BussinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\obj\Debug\net8.0\Candidate_BussinessObjects.sourcelink.json
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\obj\Debug\net8.0\Candidate_BussinessObjects.dll
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\obj\Debug\net8.0\refint\Candidate_BussinessObjects.dll
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\obj\Debug\net8.0\Candidate_BussinessObjects.pdb
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\obj\Debug\net8.0\Candidate_BussinessObjects.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\ClassLibrary1_BussinessObjects\obj\Debug\net8.0\ref\Candidate_BussinessObjects.dll

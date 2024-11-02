@@ -1,0 +1,35 @@
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\bin\Debug\net8.0\Candidate_Repository.deps.json
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\bin\Debug\net8.0\Candidate_Repository.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\bin\Debug\net8.0\Candidate_Repository.pdb
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\bin\Debug\net8.0\Candidate_BussinessObjects.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\bin\Debug\net8.0\Candidate_DAO.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\bin\Debug\net8.0\Candidate_DAO.pdb
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\bin\Debug\net8.0\Candidate_BussinessObjects.pdb
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\obj\Debug\net8.0\Candidate_Repository.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\obj\Debug\net8.0\Candidate_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\obj\Debug\net8.0\Candidate_Repository.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\obj\Debug\net8.0\Candidate_Repository.AssemblyInfo.cs
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\obj\Debug\net8.0\Candidate_Repository.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\obj\Debug\net8.0\Candidat.88AA5326.Up2Date
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\obj\Debug\net8.0\Candidate_Repository.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\obj\Debug\net8.0\refint\Candidate_Repository.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\obj\Debug\net8.0\Candidate_Repository.pdb
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\obj\Debug\net8.0\ref\Candidate_Repository.dll
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\bin\Debug\net8.0\Candidate_Repository.deps.json
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\bin\Debug\net8.0\Candidate_Repository.dll
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\bin\Debug\net8.0\Candidate_Repository.pdb
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\bin\Debug\net8.0\Candidate_BussinessObjects.dll
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\bin\Debug\net8.0\Candidate_DAO.dll
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\bin\Debug\net8.0\Candidate_DAO.pdb
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\bin\Debug\net8.0\Candidate_BussinessObjects.pdb
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\obj\Debug\net8.0\Candidate_Repository.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\obj\Debug\net8.0\Candidate_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\obj\Debug\net8.0\Candidate_Repository.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\obj\Debug\net8.0\Candidate_Repository.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\obj\Debug\net8.0\Candidate_Repository.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\obj\Debug\net8.0\Candidate_Repository.sourcelink.json
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\obj\Debug\net8.0\Candidat.88AA5326.Up2Date
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\obj\Debug\net8.0\Candidate_Repository.dll
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\obj\Debug\net8.0\refint\Candidate_Repository.dll
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\obj\Debug\net8.0\Candidate_Repository.pdb
+C:\Users\Admin\OneDrive\Máy tính\New folder\PRN221PE_FA22_TrialTest_NGOTHANHTOAN\Candidate_Repository\obj\Debug\net8.0\ref\Candidate_Repository.dll
